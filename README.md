@@ -22,6 +22,28 @@ Welcome to the E-commerce Chatbot project! This application provides an interact
     *   Pop-up notifications for cart actions (e.g., "Added to Cart").
     *   Smooth animations and transitions for improved interactivity.
 
+## Preview
+### 1. Sign In
+
+![image](https://github.com/user-attachments/assets/ecf87fbb-29ca-4fce-b2f9-1c649942a798)
+
+### 2. Register
+
+![image](https://github.com/user-attachments/assets/099c8528-8c97-4715-b2ef-8f48ae48c8ce)
+
+### 3. Chat
+
+![image](https://github.com/user-attachments/assets/ece13eb0-bdd6-4d86-8315-61ab74118a51)
+
+### 4. Add To Cart
+
+![image](https://github.com/user-attachments/assets/519471ea-4292-49ea-9db7-ce34d9a3ff30)
+
+### 5. Cart
+
+![image](https://github.com/user-attachments/assets/3417740c-7326-40a3-9f67-61b77ab2671e)
+
+
 ## Technologies Used
 
 This project is built with a decoupled frontend and backend architecture.
