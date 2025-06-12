@@ -169,8 +169,6 @@ The frontend application will typically open in your browser at `http://localhos
     *   Adjust item quantities using the `+` and `-` buttons.
     *   Remove items using the "Remove" button.
     *   See the updated total value of your cart.
-7.  **Back to Chat**: Use the "Back to Chat" button on the cart page to return to the chatbot interface.
-8.  **Logout**: Click the "Logout" button in the chat interface to log out of your account.
 
 ## Future Improvements
 
