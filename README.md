@@ -57,7 +57,7 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/adiyaan010205/E-Commerce-Chatbot.git
 cd E-Commerce-Chatbot
 ```
 
